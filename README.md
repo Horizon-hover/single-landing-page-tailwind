@@ -79,6 +79,15 @@ global-360-landing/
 └── README.md           # This file
 Customization
 To modify the design:
+Credits
+Font: Inter by Rasmus Andersson
+
+Icons: Heroicons
+
+Color Palette: Tailwind CSS defaults
+
+License
+MIT License - Free for personal and commercial use.
 
 Update colors in tailwind.config.js:
 
@@ -110,12 +119,3 @@ Best Practices Implemented
 
 ✅ Consistent spacing system
 
-Credits
-Font: Inter by Rasmus Andersson
-
-Icons: Heroicons
-
-Color Palette: Tailwind CSS defaults
-
-License
-MIT License - Free for personal and commercial use.
