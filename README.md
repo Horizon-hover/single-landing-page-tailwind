@@ -77,17 +77,9 @@ global-360-landing/
 │   └── mobile-menu.js  # Mobile navigation
 ├── images/             # All project images
 └── README.md           # This file
+
 Customization
 To modify the design:
-Credits
-Font: Inter by Rasmus Andersson
-
-Icons: Heroicons
-
-Color Palette: Tailwind CSS defaults
-
-License
-MIT License - Free for personal and commercial use.
 
 Update colors in tailwind.config.js:
 
@@ -102,7 +94,6 @@ theme: {
   }
 }
 Adjust typography in HTML using Tailwind classes like:
-
 
 <h1 class="text-4xl md:text-5xl font-bold leading-tight">
 Run HTML
@@ -119,3 +110,12 @@ Best Practices Implemented
 
 ✅ Consistent spacing system
 
+Credits
+Font: Inter by Rasmus Andersson
+
+Icons: Heroicons
+
+Color Palette: Tailwind CSS defaults
+
+License
+MIT License - Free for personal and commercial use.
