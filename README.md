@@ -78,6 +78,16 @@ global-360-landing/
 ├── images/             # All project images
 └── README.md           # This file
 
+Credits
+Font: Inter by Rasmus Andersson
+
+Icons: Heroicons
+
+Color Palette: Tailwind CSS defaults
+
+License
+MIT License - Free for personal and commercial use.
+
 Customization
 To modify the design:
 
@@ -109,13 +119,3 @@ Best Practices Implemented
 ✅ CSS utility class organization
 
 ✅ Consistent spacing system
-
-Credits
-Font: Inter by Rasmus Andersson
-
-Icons: Heroicons
-
-Color Palette: Tailwind CSS defaults
-
-License
-MIT License - Free for personal and commercial use.
