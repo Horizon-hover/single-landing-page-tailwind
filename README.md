@@ -1,4 +1,7 @@
 Global 360 Landing Page
+
+![Global 360 Screenshot](./images/screenshot.jpg)*
+
 Project Preview
 
 A responsive landing page built with Tailwind CSS that demonstrates modern design principles including typography, color theory, and layout techniques.
