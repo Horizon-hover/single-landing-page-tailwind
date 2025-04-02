@@ -1,6 +1,6 @@
 Global 360 Landing Page
 
-![Global 360 Screenshot](./images/screenshot.jpg)*
+![Global 360 Screenshot](./images/screenshot.jpg)
 
 Project Preview
 
