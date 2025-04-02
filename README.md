@@ -103,10 +103,11 @@ theme: {
     }
   }
 }
-Adjust typography in HTML using Tailwind classes like:
 
-<h1 class="text-4xl md:text-5xl font-bold leading-tight">
+Adjust typography in HTML using Tailwind classes like:
+*/<h1 class="text-4xl md:text-5xl font-bold leading-tight">/*
 Run HTML
+
 Best Practices Implemented
 ✅ Semantic HTML5
 
