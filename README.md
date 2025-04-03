@@ -61,12 +61,11 @@ Installation
 Clone the repository:
 
 git clone https://github.com/yourusername/global-360-landing.git
-Install dependencies:
 
+Install dependencies:
 
 npm install
 Run development server:
-
 
 npm run dev
 Project Structure
