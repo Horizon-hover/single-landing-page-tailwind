@@ -76,8 +76,11 @@ npm is optional unless you need:
 
 In which case:
 # Only run these if you need to modify Tailwind:
+
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss init -p
+
 npm run build  # Generates optimized CSS
 
 Project Structure
