@@ -64,11 +64,21 @@ git clone https://github.com/yourusername/global-360-landing.git
 
 Install dependencies:
 
-npm install
+This current setup works without npm – it’s just HTML/CSS/JS.
 
-Run development server:
+npm is optional unless you need:
 
-npm run
+- Tailwind customization
+
+- Advanced optimizations
+
+- A dev server with hot-reloading
+
+In which case:
+# Only run these if you need to modify Tailwind:
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm run build  # Generates optimized CSS
 
 Project Structure
 
