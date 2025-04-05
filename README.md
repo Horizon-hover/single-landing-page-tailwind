@@ -60,7 +60,7 @@ Breakpoint-specific designs
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/global-360-landing.git
+git clone https://github.com/Horizon-hover/single-landing-page-tailwind.git
 
 Install dependencies:
 
